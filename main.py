@@ -5,7 +5,7 @@ from os import path
 import joblib
 
 # Title
-st.title("Customer Churn Pipeline")
+st.title("Customer Churn Prediction")
 
 st.write("This app predicts whether a customer will churn or stay, based on their details.")
 
